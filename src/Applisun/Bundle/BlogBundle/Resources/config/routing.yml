@@ -1,0 +1,3 @@
+applisun_blog_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ApplisunBlogBundle:Default:index }
