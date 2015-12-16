@@ -1,0 +1,18 @@
+#Bootstrap
+app/bootstrap*
+
+# Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+# Configuation files
+app/config/parameters.yml
+
+#IDEs
+nbproject
+.buildpath
+.project
+.settings
